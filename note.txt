@@ -1,0 +1,4 @@
+
+npm install --global yarn
+yarn start
+yarn add node-sass (After running  the command, delete yanm.lock and node_modules folder from codebase)
